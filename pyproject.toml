@@ -22,4 +22,5 @@ dependencies = [
     "ipykernel",
     "jupyterlab",
     "notebook",
+    "pip"
 ]
